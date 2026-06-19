@@ -2,7 +2,8 @@
 
 #### Core Structural Types
 
-`feat`: Introduces a brand new feature to the codebase.fix: Patches a bug or resolves an issue in the application.
+`feat`: Introduces a brand new feature to the codebase.
+`fix`: Patches a bug or resolves an issue in the application.
 
 #### Technical & Structural Changes
 
